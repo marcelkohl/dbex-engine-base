@@ -24,3 +24,6 @@ If you want to share your engine, please let me know by sending a message and I 
 
 ## Don't!
 - Don't change the files in `/dataModel` folder. This folder may have updates in the future and you may have to update your branch/fork to comply with the dbex requirements.
+
+## TODO
+- engine plugins automatically install dbex core
