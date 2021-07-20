@@ -23,4 +23,4 @@ All the needed information about the mandatory methods, types, parameters and re
 If you want to share your engine, please let me know by sending a message and I will include it on the Dbex engines list github page.
 
 ## Don't!
-- Don't change the files in `/dataModel` folder. This folder may have updates in the future and you may have to update your branch.
+- Don't change the files in `/dataModel` folder. This folder may have updates in the future and you may have to update your branch/fork to comply with the dbex requirements.
