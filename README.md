@@ -18,5 +18,9 @@ To create your custom engine for the dbex package proceed with the following:
 - Publish your package on [Atom packages](https://flight-manual.atom.io/hacking-atom/sections/publishing/);
 - Done.
 
+All the needed information about the mandatory methods, types, parameters and returns are commented in the `sample-engine.js` file. Feel free to send a message if you miss something.
+
+If you want to share your engine, please let me know by sending a message and I will include it on the Dbex engines list github page.
+
 ## Don't!
-- Don't change the files in dataModel folder. This folder may have updates in the future and you may have to update your branch.
+- Don't change the files in `/dataModel` folder. This folder may have updates in the future and you may have to update your branch.
