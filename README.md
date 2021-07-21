@@ -7,13 +7,15 @@
 Base engine structure for dbex package
 
 ## Purpose
+[Dbex package](https://github.com/marcelkohl/dbex) does not make all the work alone, instead, it use 3rd party engines to make things happen. Everything that is related to the database is done by the engine as processing queries, controlling connection pools, retrieving structures and so on.
+
 This sample package exemplifies the implementation of an engine for the dbex package. All necessary methods and data models are included.
 
 Dbex package will be informed by Atom about your package and will automatically include it on the list of available engines right after Atom restarts.
 
 ## How to
 To create your custom engine for the dbex package proceed with the following:
-- Clone this repository;
+- [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository;
 - Fill the mandatory methods with your code;
 - Publish your package on [Atom packages](https://flight-manual.atom.io/hacking-atom/sections/publishing/);
 - Done.
